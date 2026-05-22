@@ -1,0 +1,8 @@
+Is python a programming language or a scripting language 
+
+https://www.geeksforgeeks.org/python/python-compiled-or-interpreted/  -- This is a link from geeksforgeeks that explain the 
+different distribution of python, And why python is considered as a programming language .Python does both compilation
+and interpretation.
+
+
+https://eddieantonio.ca/blog/2023/10/25/python-is-a-compiled-language
